@@ -1,0 +1,16 @@
+https://www.youtube.com/watch?v=qJBE_g07tl0
+self balancing platforn
+squino (Date)
+https://www.youtube.com/watch?v=ZimUn8cFJiU
+sound reactive cube
+https://www.youtube.com/watch?v=enyIGWev7HQ&list=PLhVYuyI23337Cp_q4mSDoMUzKW9VgceTx&index=7&t=0s
+autonomous follow box
+PID ball balance
+https://www.youtube.com/watch?v=0XTcJ5-0u00&list=PLhVYuyI23337Cp_q4mSDoMUzKW9VgceTx&index=7
+Game controller (Hand)
+https://www.youtube.com/watch?v=QPP4nwlKe2o
+Real time GPS tracker
+https://www.kickstarter.com/projects/idlehandsdev/pixo-pixel-an-esp32-based-iot-rgb-display-for-make/
+Pixo pixel (This one has wide applications!) <---*****
+https://www.youtube.com/watch?v=osQJIh5ROKQ 
+3d holographic display system
