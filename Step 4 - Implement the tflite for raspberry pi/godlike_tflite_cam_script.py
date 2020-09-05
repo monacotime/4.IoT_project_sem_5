@@ -205,7 +205,8 @@ input_shape = input_details[0]['shape'] #REMOVE THIS ONE
 # Start
 #-------------------------------------------------------------
 
-normal_operation_mode()
+# normal_operation_mode()
+debug_mode()
 
 #-------------------------------------------------------------
 # Thats it! THE END ez pz
